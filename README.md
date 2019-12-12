@@ -6,7 +6,7 @@
 开发者：沙振宇（沙师弟专栏） <BR/>
 创建时间：2019-7-9 <BR/>
 最后一次更新时间：2019-12-12<BR/>
-CSDN博客地址：https://blog.csdn.net/u014597198/article/details/98615482<BR/>
+CSDN博客地址：https://shazhenyu.blog.csdn.net/article/details/98615482<BR/>
 <BR/>
 # 3、使用前准备
 python版本要求：python3.0 以上<BR/>
