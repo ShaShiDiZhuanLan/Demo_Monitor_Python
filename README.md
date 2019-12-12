@@ -10,7 +10,7 @@
 CSDN博客地址：https://blog.csdn.net/u014597198/article/details/98615482<BR/>
 <BR/>
 # 3、运行效果
-![image](https://github.com/ShaShiDiZhuanLan/Demo_Matplotlib_Python/blob/master/%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
+![image](https://github.com/ShaShiDiZhuanLan/Demo_Monitor_Python/blob/master/%E7%9B%91%E6%8E%A7.png)
 # 4、使用前准备
 python版本要求：python3.0 以上
 安装 python 的 psutil 包 和 requests 包
